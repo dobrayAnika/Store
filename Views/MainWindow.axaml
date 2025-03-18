@@ -1,0 +1,41 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:StudentApp.ViewModels"
+        xmlns:avalonia="clr-namespace:Avalonia.Controls;assembly=Avalonia.Controls"
+        Title="Студент - Оценки и Долги"
+        Width="400"
+        Height="500"
+        x:Class="StudentApp.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel">
+    <Window.DataContext>
+        <vm:MainWindowViewModel/>
+    </Window.DataContext>
+
+    <StackPanel Margin="10">
+        <TextBlock Text="Введите данные студента:"/>
+        <TextBox Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}" Watermark="Имя"/>
+        <TextBox Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}" Watermark="Фамилия"/>
+        <Button Content="Создать студента" Command="{Binding AddStudent}"/>
+
+        <TextBlock Text="Выберите предмет:" Margin="0,10,0,0"/>
+        <ComboBox ItemsSource="{Binding Subjects}" SelectedItem="{Binding SelectedSubject}"/>
+
+        <TextBlock Text="Введите оценку:"/>
+        <avalonia:NumericUpDown Minimum="2" Maximum="5" Value="{Binding Grade, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="0,5,0,0"/>
+
+        <Button Content="Добавить оценку" Command="{Binding AddGrade}"/>
+
+        <Button Content="Рассчитать статистику" Command="{Binding CalculateStatistics}" Margin="0,10,0,0"/>
+
+        <!-- Средняя оценка по всем предметам -->
+        <TextBlock Text="Средняя оценка по всем предметам:" FontWeight="Bold" Margin="0,10,0,0"/>
+        <TextBlock Text="{Binding AverageGrade}"/>
+
+        <!-- Средняя оценка по выбранному предмету -->
+        <TextBlock Text="Средняя оценка по предмету:" FontWeight="Bold" Margin="0,10,0,0"/>
+        <TextBlock Text="{Binding SelectedSubjectAverageGrade}"/>
+
+        <!-- Долги -->
+        <TextBlock Text="{Binding Debts}"/>
+    </StackPanel>
+</Window>
