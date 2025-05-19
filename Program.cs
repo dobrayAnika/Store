@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace StudentApp;
+namespace StoreApp;
 
 internal sealed class Program
 {

@@ -1,6 +1,8 @@
 ﻿using ReactiveUI;
-namespace StudentApp.ViewModels;
 
-public class ViewModelBase : ReactiveObject
+namespace StoreApp.ViewModels
 {
+    public class ViewModelBase : ReactiveObject
+    {
+    }
 }

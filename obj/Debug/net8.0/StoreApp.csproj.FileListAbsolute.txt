@@ -1,0 +1,152 @@
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.csproj.AssemblyReference.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.AssemblyInfo.cs
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\Avalonia\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\Avalonia\StoreApp.pdb
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\refint\Avalonia\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\refint\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\SroreApp\obj\Debug\net8.0\StoreApp.pdb
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\StoreApp.exe
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\StoreApp.deps.json
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\StoreApp.runtimeconfig.json
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\StoreApp.pdb
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\DynamicData.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Splat.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.csproj.AssemblyReference.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfo.cs
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\Avalonia\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\Avalonia\StoreApp.pdb
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\refint\Avalonia\StoreApp.dll
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.csproj.Up2Date
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\StoreApp.genruntimeconfig.cache
+C:\Users\Huisan\Desktop\учёба\6 сем\C#\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\StoreApp.exe
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\StoreApp.deps.json
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\StoreApp.runtimeconfig.json
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\StoreApp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\StoreApp.pdb
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Vulkan.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\DynamicData.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Splat.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.csproj.AssemblyReference.cache
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\Avalonia\resources
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfo.cs
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\Avalonia\StoreApp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\Avalonia\StoreApp.pdb
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\refint\Avalonia\StoreApp.dll
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.csproj.Up2Date
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\StoreApp.genruntimeconfig.cache
+C:\Users\anyad\OneDrive\Рабочий стол\учеба пдф\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll
